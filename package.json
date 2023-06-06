@@ -1,0 +1,25 @@
+{
+  "name": "line-query",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "Para hacer preguntas en la linea de comandos utilizando los recursos de Node js de un modo simplificado",
+  "main": "lquery.js",
+  "scripts": {
+    "test": "node --version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwinSilvestrePRO/line-query.git"
+  },
+  "keywords": [
+    "query",
+    "line",
+    "query-line"
+  ],
+  "author": "Codevelp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwinSilvestrePRO/line-query/issues"
+  },
+  "homepage": "https://github.com/EdwinSilvestrePRO/line-query#readme"
+}
